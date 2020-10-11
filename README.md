@@ -1,6 +1,6 @@
 Instagram clone application with React native
 
-![Instagram](https://github.com/safak/React-Native-Instagram-Clone/blob/master/react-native-instagram.gif)
+![Instagram](https://github.com/safak/Ract-Native-Instagram-Clone/blob/master/react-native-instagram.gif)
 
 ## Installation
 
